@@ -1,10 +1,10 @@
 # Share Your Content Instantly
 
 With MDServe any Markdown file in a public GitHub repository can be rendered
-instantly as a clean, readable page. No need to setup a static site generator
-or put you content on someone else's platform.
+instantly as a clean, readable page. No need to set up a static site generator
+or put your content on someone else's platform.
 
-MDserve was inspired by Idan Gazit's ingenious [Gist.io](https://gist.io).
+MDserve was inspired by Idan Gazit's [Gist.io](https://gist.io).
 
 ## Usage
 
@@ -27,10 +27,10 @@ for example in the index page of your blog:
 
 [https://mdserve.github.io/robvanderleek/notes](https://mdserve.github.io/robvanderleek/notes)
 
-# Feedback welcome
+## Feedback welcome
 
-For feedback, suggestions, and bug reports, please create an issue here:
-https://github.com/mdserve/mdserve.github.io/issues
+For feedback, suggestions, and bug reports, please [open an
+issue](https://github.com/mdserve/mdserve.github.io/issues).
 
 If you like this service, please
 [star](https://github.com/mdserve/mdserve.github.io) ⭐ it.
