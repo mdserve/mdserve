@@ -1,8 +1,10 @@
 # Share Your Content Instantly
 
 With MDServe any Markdown file in a public GitHub repository can be rendered
-instantly as a clean, readable page.  No need to setup a static site generator
+instantly as a clean, readable page. No need to setup a static site generator
 or put you content on someone else's platform.
+
+MDserve was inspired by Idan Gazit's ingenious [Gist.io](https://gist.io).
 
 ## Usage
 
@@ -12,18 +14,25 @@ expanding books repository:
 
 [https://mdserve.github.io/hackerkid/Mind-Expanding-Books](https://mdserve.github.io/hackerkid/Mind-Expanding-Books)
 
-To view any other Markdown file in a public repository, append the path to the
-file. For example, take a look at the list of free programming books in the
-Markdown file `books/free-programming-books-subjects.md` of the `EbookFoundation/free-programming-books` repository:
+To view any other Markdown file in a public repository, just append the path.
+For example, take a look at the list of free programming books in the Markdown
+file `books/free-programming-books-subjects.md` of the
+`EbookFoundation/free-programming-books` repository:
 
 [https://mdserve.github.io/EbookFoundation/free-programming-books/books/free-programming-books-subjects.md](https://mdserve.github.io/EbookFoundation/free-programming-books/books/free-programming-books-subjects.md)
 
 Relative links to Markdown files in the same repository are replaced
 automatically by MDServe links. This enables simple navigation between pages,
-such as on this notes page:
+for example in the index page of your blog:
 
 [https://mdserve.github.io/robvanderleek/notes](https://mdserve.github.io/robvanderleek/notes)
 
-MDserve was inspired by Idan Gazit's ingenious [Gist.io](https://gist.io).
+# Feedback welcome
+
+For feedback, suggestions, and bug reports, please create an issue here:
+https://github.com/mdserve/mdserve.github.io/issues
+
+If you like this service, please
+[star](https://github.com/mdserve/mdserve.github.io) ⭐ it.
 
 Happy writing!
