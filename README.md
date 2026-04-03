@@ -1,10 +1,16 @@
-# Share Your Writings
+# Share Your Content Instantly
 
-Markdown makes creating writings easy, MDServe makes it easy to share those
-writings. Every Markdown document you create on GitHub, be it a short howto, a
-manual, or your blog, is turned into a minimalistic, easy to read document on
-the fly by MDServe. This way your writings stay yours, and you can focus on the
-content.
+With MDServe any Markdown file in a public GitHub repository can be rendered
+instantly as a clean, readable page.  No need to setup a static site generator,
+or put you content on someone else's platform.
+
+## Usage
+
+To view the `README.md` of any public repository add the owner and repo name.
+For example, for the Awesome list of mind expanding books repository at
+https://github.com/hackerkid/Mind-Expanding-Books:
+
+[https://mdserve.github.io/hackerkid/Mind-Expanding-Books]
 
 MDserve was inspired by Idan Gazit's [Gist.io](https://gist.io).
 
