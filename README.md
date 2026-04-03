@@ -1,7 +1,7 @@
 # Share Your Content Instantly
 
 With MDServe any Markdown file in a public GitHub repository can be rendered
-instantly as a clean, readable page.  No need to setup a static site generator,
+instantly as a clean, readable page.  No need to setup a static site generator
 or put you content on someone else's platform.
 
 ## Usage
@@ -18,7 +18,11 @@ Markdown file `books/free-programming-books-subjects.md` of the `EbookFoundation
 
 [https://mdserve.github.io/EbookFoundation/free-programming-books/books/free-programming-books-subjects.md](https://mdserve.github.io/EbookFoundation/free-programming-books/books/free-programming-books-subjects.md)
 
-Relative links to Markdown files are replaced 
+Relative links to Markdown files in the same repository are replaced
+automatically by MDServe links. This enables simple navigation between pages,
+such as on this notes page:
+
+[https://mdserve.github.io/robvanderleek/notes](https://mdserve.github.io/robvanderleek/notes)
 
 MDserve was inspired by Idan Gazit's ingenious [Gist.io](https://gist.io).
 
