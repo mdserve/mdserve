@@ -6,12 +6,12 @@ or put you content on someone else's platform.
 
 ## Usage
 
-To view the `README.md` of any public repository add the owner and repo name.
-For example, for the Awesome list of mind expanding books repository at
-https://github.com/hackerkid/Mind-Expanding-Books:
+To view the `README.md` of any public repository, replace github.com with
+mdserve.github.io. For example, for the Awesome list of mind expanding books
+repository:
 
-[https://mdserve.github.io/hackerkid/Mind-Expanding-Books]
+[https://mdserve.github.io/hackerkid/Mind-Expanding-Books](https://mdserve.github.io/hackerkid/Mind-Expanding-Books)
 
-MDserve was inspired by Idan Gazit's [Gist.io](https://gist.io).
+MDserve was inspired by Idan Gazit's ingenious [Gist.io](https://gist.io).
 
 Happy writing!
