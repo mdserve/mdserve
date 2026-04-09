@@ -2,7 +2,8 @@
 
 With MDServe any Markdown file in a public GitHub repository can be rendered
 instantly as a clean, readable page. No need to set up a static site generator
-or put your content on someone else's platform.
+or put your content on someone else's platform. What you are reading now comes
+from a plain Markdown file.
 
 MDserve was inspired by Idan Gazit's [Gist.io](https://gist.io).
 
